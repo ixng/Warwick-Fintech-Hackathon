@@ -2,7 +2,7 @@
 
 import { TopBar } from "@/components/top-bar"
 import { AnomalyDetector } from "@/components/spending/anomaly-detector"
-import { TransactionTable } from "@/components/spending/transaction-table"
+import { TransactionTable  } from "@/components/spending/transaction-table"
 import { AddTransaction } from "@/components/spending/add-transaction"
 
 export default function SpendingPage() {
